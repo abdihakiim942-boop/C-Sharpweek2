@@ -1,0 +1,10 @@
+C:\Users\PC\OneDrive\Dokumente\C SHARP exmaples\EXAMPLE1\EXAMPLE1\bin\Debug\EXAMPLE1.exe.config
+C:\Users\PC\OneDrive\Dokumente\C SHARP exmaples\EXAMPLE1\EXAMPLE1\bin\Debug\EXAMPLE1.exe
+C:\Users\PC\OneDrive\Dokumente\C SHARP exmaples\EXAMPLE1\EXAMPLE1\bin\Debug\EXAMPLE1.pdb
+C:\Users\PC\OneDrive\Dokumente\C SHARP exmaples\EXAMPLE1\EXAMPLE1\obj\Debug\EXAMPLE1.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Dokumente\C SHARP exmaples\EXAMPLE1\EXAMPLE1\obj\Debug\EXAMPLE1.Form1.resources
+C:\Users\PC\OneDrive\Dokumente\C SHARP exmaples\EXAMPLE1\EXAMPLE1\obj\Debug\EXAMPLE1.Properties.Resources.resources
+C:\Users\PC\OneDrive\Dokumente\C SHARP exmaples\EXAMPLE1\EXAMPLE1\obj\Debug\EXAMPLE1.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Dokumente\C SHARP exmaples\EXAMPLE1\EXAMPLE1\obj\Debug\EXAMPLE1.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Dokumente\C SHARP exmaples\EXAMPLE1\EXAMPLE1\obj\Debug\EXAMPLE1.exe
+C:\Users\PC\OneDrive\Dokumente\C SHARP exmaples\EXAMPLE1\EXAMPLE1\obj\Debug\EXAMPLE1.pdb
